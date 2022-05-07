@@ -1,0 +1,30 @@
+#page_wraper{
+    background-color: rgb(119, 36, 197);
+    width: 320px;
+    height: 200px;
+    margin: auto;
+    padding: 50px;
+}
+.cube{
+    background-color: #F7EC7D;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+#first{
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+#second{
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    margin-bottom: 100px;
+}
+#third{
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    margin-top: 100px;
+  }
+  body{
+      background-color: lightgreen;
+  }
